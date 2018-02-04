@@ -12,7 +12,8 @@ Node: 8.9.3
 Step to run this project:
 1. Install Visual studio code
 2. Open this project using Visual studio code.
-3. First step: IF you want to use your own Recombee API:
+3. Run command: npm i  to install node js packages. 
+4. First step: IF you want to use your own Recombee API:
 
     a. Create an account at https://docs.recombee.com/
     
@@ -22,7 +23,7 @@ Step to run this project:
     
     d. Replace the dbname and secret key with your own Recombee account.
     
-4. If you want to load the User, Movie and rating data to Recombee Db:
+5. If you want to load the User, Movie and rating data to Recombee Db:
 
     a. Go to Project folder and open server.js file
     
@@ -30,5 +31,5 @@ Step to run this project:
     
     c. Run the command : node server.js
     
-5. This app is built using Angular 5 with Material Design as Front end.
-6. Once Data is uploaded to Recombee DB: To Build and run the application: hit the command => npm start
+7. This app is built using Angular 5 with Material Design as Front end.
+8. Once Data is uploaded to Recombee DB: To Build and run the application: hit the command => npm start
