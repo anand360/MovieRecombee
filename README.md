@@ -3,6 +3,9 @@ Movie recommendation app using Recombee API
 
 This app code folder is password protected due to its nature of app. If you would like to access this project code, kindly drop an email to anandkishore31@gmail.com
 
+Tryout:
+http://movierecombee.azurewebsites.net/
+
 Angular : 5.2.0
 
 Angular Material : 5.1.1
